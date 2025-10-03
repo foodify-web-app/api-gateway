@@ -1,1 +1,3 @@
-# api-gateway
+# foodify
+
+Food ordering website
